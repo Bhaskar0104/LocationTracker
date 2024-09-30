@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationTrack</string>
+    <string name="show_bluetooth_information">Show Bluetooth information</string>
+    <string name="device_name">Device name</string>
+    <string name="device_address">Device address</string>
+    <string name="response_wait_text">Waiting For Response…</string>
+    <string name="location_tracking">Location Tracking</string>
+    <string name="bluetooth_information">Bluetooth Information</string>
+    <string name="additional_note">Additional Note:</string>
+    <string name="addition_note">• Provide System\'s Location for tracking, the location coordinates will show on the Notification. \n• Provide System\'s Bluetooth for information.</string>
+    <string name="device_type">Device Type</string>
+</resources>
